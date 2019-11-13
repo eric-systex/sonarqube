@@ -261,7 +261,6 @@ stage("Quality Gate"){
 * https://jenkins.io/doc/pipeline/steps/sonar/
 * https://tpu.thinkpower.com.tw/tpu/articleDetails/563
 * https://rules.sonarsource.com/java
-* test
 
 
 
